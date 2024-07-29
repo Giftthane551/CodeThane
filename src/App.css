@@ -1,5 +1,15 @@
 .App {
   text-align: center;
+  background-color: rgb(245, 245, 245);
+
+}
+.text-front{
+  text-align: center;
+  color: #61dafb;
+}
+.background-image-container{
+
+  background: linear-gradient(135deg, #f7f7f7, #feb47b);
 }
 
 .App-logo {
@@ -27,6 +37,8 @@
 .App-link {
   color: #61dafb;
 }
+
+
 
 @keyframes App-logo-spin {
   from {
