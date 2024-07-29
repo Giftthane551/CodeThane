@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TshifhiwaRamasala\\source\\repos\\GiftWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1D2505-DBE2-46D9-AF8F-3852049E4CBF}|GiftWebApp.csproj|c:\\users\\tshifhiwaramasala\\source\\repos\\giftwebapp\\data\\migrations\\20240728183003_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1D2505-DBE2-46D9-AF8F-3852049E4CBF}|GiftWebApp.csproj|solutionrelative:data\\migrations\\20240728183003_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1D2505-DBE2-46D9-AF8F-3852049E4CBF}|GiftWebApp.csproj|c:\\users\\tshifhiwaramasala\\source\\repos\\giftwebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1D2505-DBE2-46D9-AF8F-3852049E4CBF}|GiftWebApp.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1D2505-DBE2-46D9-AF8F-3852049E4CBF}|GiftWebApp.csproj|c:\\users\\tshifhiwaramasala\\source\\repos\\giftwebapp\\controllers\\giftscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1D2505-DBE2-46D9-AF8F-3852049E4CBF}|GiftWebApp.csproj|solutionrelative:controllers\\giftscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1D2505-DBE2-46D9-AF8F-3852049E4CBF}|GiftWebApp.csproj|c:\\users\\tshifhiwaramasala\\source\\repos\\giftwebapp\\models\\gift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1D2505-DBE2-46D9-AF8F-3852049E4CBF}|GiftWebApp.csproj|solutionrelative:models\\gift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1D2505-DBE2-46D9-AF8F-3852049E4CBF}|GiftWebApp.csproj|c:\\users\\tshifhiwaramasala\\source\\repos\\giftwebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B1D2505-DBE2-46D9-AF8F-3852049E4CBF}|GiftWebApp.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 387,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240728183003_InitialSetup.cs",
+              "DocumentMoniker": "C:\\Users\\TshifhiwaRamasala\\source\\repos\\GiftWebApp\\Data\\Migrations\\20240728183003_InitialSetup.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240728183003_InitialSetup.cs",
+              "ToolTip": "C:\\Users\\TshifhiwaRamasala\\source\\repos\\GiftWebApp\\Data\\Migrations\\20240728183003_InitialSetup.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240728183003_InitialSetup.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T18:30:04.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GiftsController.cs",
+              "DocumentMoniker": "C:\\Users\\TshifhiwaRamasala\\source\\repos\\GiftWebApp\\Controllers\\GiftsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GiftsController.cs",
+              "ToolTip": "C:\\Users\\TshifhiwaRamasala\\source\\repos\\GiftWebApp\\Controllers\\GiftsController.cs",
+              "RelativeToolTip": "Controllers\\GiftsController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T18:17:02.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\TshifhiwaRamasala\\source\\repos\\GiftWebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\TshifhiwaRamasala\\source\\repos\\GiftWebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T18:12:17.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gift.cs",
+              "DocumentMoniker": "C:\\Users\\TshifhiwaRamasala\\source\\repos\\GiftWebApp\\Models\\Gift.cs",
+              "RelativeDocumentMoniker": "Models\\Gift.cs",
+              "ToolTip": "C:\\Users\\TshifhiwaRamasala\\source\\repos\\GiftWebApp\\Models\\Gift.cs",
+              "RelativeToolTip": "Models\\Gift.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T18:07:17.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\TshifhiwaRamasala\\source\\repos\\GiftWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\TshifhiwaRamasala\\source\\repos\\GiftWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T17:59:45.108Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
