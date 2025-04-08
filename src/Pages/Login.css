@@ -1,0 +1,75 @@
+.login-form-container {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(231, 231, 231, 0.5); /* 0.5 is the alpha value for 50% transparency */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 5px;
+}
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form-group input {
+    width: 95%;
+    padding: 10px;
+    border: 1px solid #b8860b; /* Dark gold border color */
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.login-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #b8860b; /* Dark gold button color */
+    color: white;
+    border: none;
+    border-radius: 40px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.login-button:hover {
+    background-color: #a0750a; /* Slightly darker shade on hover */
+}
+
+
+.SignUpName:after{
+
+    content: '';
+    display: block;
+    width: 50px;
+    height: 3px;
+    background-color: #feb47b; /* Accent color */
+    margin: 10px auto 0; /* Center the underline below the h2 */
+}
+
+.LogContainer{
+
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-size: cover; /* Ensures the image covers the entire page */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat;
+    /*background: linear-gradient(to right, #494443, #e0843e); Example gradient */
+
+    background-image: url('../icons/pexels-konstantinos-eleftheriadis-916620-2034335.jpg');
+    color:  #333;
+    font-size: 20px;
+  }

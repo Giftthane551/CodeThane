@@ -1,0 +1,59 @@
+.button-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Adjust number of columns */
+    grid-gap: 200px; /* Space between buttons */
+    padding: 100px;
+    
+}
+.Grid-Backgroud{
+
+    background: linear-gradient(90deg, #6b6a6a, #feb47b);
+}
+
+.grid-button {
+    background-size: cover;
+    background-position: center;
+    border: none;
+    border-radius: 10px;
+    width: 100%;
+    padding-top: 50%; /* Makes the button a square */
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+    background-color: #e9cbb4;
+}
+
+.grid-button:hover {
+    transform: scale(1.05); /* Slight zoom effect on hover */
+}
+
+.button-label {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.7);
+}
+
+.Header-Welcome{
+
+    bottom: 10px;
+    left: 10px;
+    color: rgb(219, 169, 111);
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+.textf{
+
+    bottom: 10px;
+    text-align: center;
+    left: 10px;
+    color: rgb(219, 169, 111);
+    font-size: 22px;
+    font-weight: bold;
+   
+}

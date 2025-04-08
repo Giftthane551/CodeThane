@@ -1,0 +1,51 @@
+.card-grid {
+    display: grid;
+    grid-template-columns: 1fr; /* Single column for vertical alignment */
+    gap: 20px; /* Spacing between the cards */
+    max-width: 400px; /* Optional: Limit the width of the grid */
+    margin: 0 auto; /* Center the grid horizontally */
+    margin-left: 150px; /* Move the grid 10px to the left */
+  }
+  
+  
+  .cardA {
+    background: linear-gradient(45deg, #fcfcfc, #7a7a61); /* Example gradient from one color to another */
+    border: 1px solid #f8b44f;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card h2 {
+    margin-top: 0;
+  }
+  
+  .card p {
+    margin-bottom: 0;
+  }
+  .card-button {
+    background: linear-gradient(90deg, #ff7e5f, #fd6e00);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  .Grid-Container {
+    background-image: url('../icons/pexels-jan-van-der-wolf-11680885-20284614.jpg'); /* Replace with your image path */
+    background-size: cover; /* Ensure the image covers the entire container */
+    background-position: center; /* Center the image in the container */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    
+    border: 1px solid #e7e7dd;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    
+    width: 99%; 
+    min-height: 90vh; /* Full viewport height */
+    margin: 0; /* Remove default margin */
+    border-radius: 0; /* Remove border radius if you want full coverage */
+}
+
+
+  

@@ -1,0 +1,19 @@
+/* Home.css */
+.Container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-size: cover; /* Ensures the image covers the entire page */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat;
+    /*background: linear-gradient(to right, #494443, #e0843e); Example gradient */
+
+    background-image: url('../icons/pexels-pixabay-271624.jpg');
+    color:  #333;
+    font-size: 20px;
+    
+  }
+
+  

@@ -1,0 +1,18 @@
+.card-gridH{
+    
+        display: grid;
+        grid-template-columns: 1fr; /* Single column for vertical alignment */
+        gap: 20px; /* Spacing between the cards */
+        max-width: 400px; /* Optional: Limit the width of the grid */
+        margin: 0 auto; /* Center the grid horizontally */
+        margin-left: 150px; /* Move the grid 10px to the left */
+    
+
+}
+.cardH {
+    background: linear-gradient(45deg, #fcfcfc, #7a7a61); /* Example gradient from one color to another */
+    border: 1px solid #f8b44f;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}

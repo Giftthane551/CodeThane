@@ -1,0 +1,156 @@
+
+
+
+.booking-container {
+    background-color: rgba(51, 51, 51, 0.8);
+    border-radius: 8px;
+    padding: 30px;
+    max-width: 550px;
+    margin: 40px auto;
+    box-shadow: 0 4px 8px rgba(155, 140, 140, 0.1);
+    font-family: Arial, sans-serif;
+    position: relative;  /* Add this line */
+    left: -600px;  /* Move 20px to the left */
+    
+    
+}
+
+
+  .title {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    color: #ffffff;
+    margin-bottom: 25px;
+  }
+  
+  .date-picker-container {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #e6e6e6;
+    border-radius: 8px;
+    background-color: #fafafa;
+  }
+  .react-datepicker__input-container input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #555;
+    box-sizing: border-box;
+  }
+
+.react-datepicker {
+    border-radius: 8px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+  }
+  
+  .react-datepicker__day-name, 
+  .react-datepicker__day, 
+  .react-datepicker__time-name {
+    width: 2.5rem;
+    line-height: 2.5rem;
+  }
+  
+  .react-datepicker__header {
+    background-color: #007BFF;
+    border-bottom: none;
+  }
+  
+  .react-datepicker__current-month,
+  .react-datepicker-time__header {
+    color: white;
+    font-size: 16px;
+  }
+  
+  .react-datepicker__day--selected {
+    background-color: #007BFF;
+    color: white;
+  }
+
+.react-datepicker-wrapper {
+    width: 100%;
+  }
+  
+  .react-datepicker__day--keyboard-selected {
+    background-color: #0056b3;
+    color: white;
+  }
+  
+  .booking-button {
+    background: linear-gradient(90deg, #ff7e5f, #feb47b);
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 100%;
+    transition: background-color 0.3s;
+  }
+  
+  .booking-button:hover {
+    background: linear-gradient(90deg, #ff7e5f, #feb47b); /* Gradient background */
+    color: white;
+    border: none;
+    border-radius: 40px;
+    padding: 15px 40px;
+    font-size: 25px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+    outline: none;
+  }
+  .input-container {
+    margin-bottom: 20px;
+  }
+  
+  .input-box {
+    display: block;
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 17px;
+    border-radius: 4px;
+    border: 3px solid #feb47b;
+  }
+  
+  .booking-button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .booking-button:hover {
+    background-color: #45a049;
+  }
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #ffffff;
+  }
+  .CheckinPage{
+    
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-size: cover; /* Ensures the image covers the entire page */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat;
+    /*background: linear-gradient(to right, #494443, #e0843e); Example gradient */
+
+    background-image: url('../icons/pexels-asadphoto-1024967.jpg');
+    color:  #333;
+    font-size: 20px;
+  }
+  
+  
+  

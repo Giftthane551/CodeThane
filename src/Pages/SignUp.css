@@ -1,0 +1,98 @@
+.sign-up-form-container {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(231, 231, 231, 0.5); /* 0.5 is the alpha value for 50% transparency */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 5px;
+}
+
+  .SignUpName {
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+    font-family: 'Poppins', sans-serif; /* Use a nice, modern font */
+    font-size: 2rem; /* Adjust the size */
+    font-weight: 600; /* Semi-bold weight */
+    color: #333; /* Dark gray color */
+    letter-spacing: 1px; /* Slightly increase spacing between letters */
+    text-transform: uppercase; /* Transform text to uppercase */
+    margin-bottom: 20px; /* Space below the h2 */
+    text-align: center; /* Center the text */
+  }
+  .SignUpName:after{
+    content: '';
+    display: block;
+    width: 50px;
+    height: 3px;
+    background-color: #feb47b; /* Accent color */
+    margin: 10px auto 0; /* Center the underline below the h2 */
+  }
+  
+  .sign-up-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input {
+    width: 90%;
+    padding: 15px;
+   
+    border: 1px solid #b8860b; /* Dark gold color */
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+
+  
+  .form-group input.error {
+    border-color: #e74c3c;
+  }
+  
+  .error-message {
+    color: #e74c3c;
+    font-size: 14px;
+  }
+  
+  .sign-up-button {
+    width: 100%;
+    padding: 15px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 40px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .sign-up-button:hover {
+    background-color: #2980b9;
+  }
+  .Sign_Up_Container{
+
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-size: cover; /* Ensures the image covers the entire page */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat;
+    /*background: linear-gradient(to right, #494443, #e0843e); Example gradient */
+
+    background-image: url('../icons/pexels-pixabay-271639.jpg');
+    color:  #333;
+    font-size: 20px;
+  }
+  
